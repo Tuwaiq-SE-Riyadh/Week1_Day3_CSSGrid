@@ -3,3 +3,6 @@
 requirements:
 - the grid should contain 8 images with a header, a description, and a link
 - there should be 2 columns and 4 rows
+
+### The ouput
+![output](output.png)
