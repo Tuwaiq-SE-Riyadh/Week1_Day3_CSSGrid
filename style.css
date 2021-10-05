@@ -1,0 +1,39 @@
+#parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 10px;
+    height: 920px;
+    row-gap: 5px;
+    background-color:rgba(194, 194, 186, 0.753);
+    padding: 5px;
+    margin: 50px;
+}
+.child {
+    height: 430px;
+    width: 94%;
+    border: solid white 10px;
+    background-color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+img {
+    height: 270px;
+    width: 270px;
+}
+h4 {
+    width: max-content;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: auto;
+    margin-left: 10px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 13px;
+}
+#Links {
+    text-align: left;
+}
