@@ -1,8 +1,8 @@
 # Week1_Day3_CSSGrid
 ## create a page like the following using gridbox:
 requirements:
-- the grid should contain 8 images with a header, a description, and a link
-- there should be 2 columns and 4 rows
+- the grid should have 4 columns
+- each grid card must have a title, image, call to action and an optional description
 
 ### The ouput
-![output](Output.png)
+![output](images/Output.png)
