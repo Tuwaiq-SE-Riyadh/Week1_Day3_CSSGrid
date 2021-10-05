@@ -5,4 +5,4 @@ requirements:
 - there should be 2 columns and 4 rows
 
 ### The ouput
-![Output](output.png)
+![output](Output.png)
