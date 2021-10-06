@@ -1,0 +1,12 @@
+#parent {
+    /* changes the display to grid */
+    display: grid;
+    /* set the amount of columns and the side of them */
+    grid-template-columns: 1fr 1fr 1fr;
+    /* set the gap size for columns and rows */
+    column-gap: 20px;
+    row-gap: 20px;
+}
+h3{
+    margin:center;
+}
