@@ -2,7 +2,8 @@
     /* changes the display to grid */
     display: grid;
     /* set the amount of columns and the side of them */
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto auto;
     /* set the gap size for columns and rows */
     column-gap: 20px;
     row-gap: 20px;
