@@ -1,0 +1,36 @@
+body{
+    background-color:bisque;
+    
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 15px;
+    padding: 15px;   
+    margin: 30px;
+    }
+     a{
+         color: darkslategray;
+         
+
+    }
+    .box img{
+        
+         width: 200px;
+         height: 200px;
+         
+
+       }
+       .home p {
+        text-align: center;
+        font-size: 16px;
+        color: rgb(1, 16, 33);
+    }
+    .box h2{
+        
+        
+        color:rgb(31, 82, 31);
+        font-size: 20px;
+    }
