@@ -8,5 +8,5 @@ requirements:
 ![output](images/Output.png)
 
 ## Bonus Media Query lab:
-- make the grid display as 3 items per row
+- make the grid display as 3 items per row for tablets
 - make the grid display as 1 grid per row for mobile
