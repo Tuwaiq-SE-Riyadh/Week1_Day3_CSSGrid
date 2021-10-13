@@ -7,6 +7,6 @@ requirements:
 ### The ouput
 ![output](images/Output.png)
 
-## Media Query lab:
+## Bonus Media Query lab:
 - make the grid display as 3 items per row
 - make the grid display as 1 grid per row for mobile
